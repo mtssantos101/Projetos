@@ -1,2 +1,2 @@
 # Projetos
-Aqui irei colocar meus projetos e exercicios inicias na programação!
+Aqui irei colocar exercicios inicias da minha trajetória na programação!
